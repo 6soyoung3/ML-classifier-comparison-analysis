@@ -1,4 +1,4 @@
-# ML-classifier-comparison-analysis
+# ML-Models-Comparison-Analysis
 A Python program for receiving datasets and building Machine Learning classifiers to generate statistical analyses and summaries of differences
 
 ## Technologies
